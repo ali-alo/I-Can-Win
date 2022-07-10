@@ -1,0 +1,3 @@
+I am in feature branch!
+
+But I am available in master branch too!
